@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    background-color: black;
+
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+.btn{
+    
+    padding: 20px;
+    background-color:green;
+}
